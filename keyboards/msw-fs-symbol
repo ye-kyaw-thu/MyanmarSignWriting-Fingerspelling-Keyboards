@@ -1,0 +1,109 @@
+// Symbol-based Keyboard Layout written by Hlaing Myat Nwe.
+// Last updated: 12 December 2017
+// Designed for Myanmar Hearing-impaired users and Hearing users who already familiar with QWERTY keyboard.
+// I hope this keyboard layout will be useful for Hearing-impaired users in reading and writing of Myanmar Fingerspelling characters with SignWriting symbols.
+// Keyboard mapping concepts are based on the shape of SignWriting symbols.
+//
+// *** Please refer SignWriting symbol-based keyboard mapping concept from our paper and also SymbolLayout-Mapping.pdf.
+// Thank you and enjoy typing Myanmar Fingerspelling Characters with SignWriting Symbols! :)
+
+
+partial default alphanumeric_keys
+xkb_symbols "basic" {
+    name[Group1]= "Symbol-based Keyboard Layout";
+    key.type[Group1] = "FOUR_LEVEL";
+    
+
+    // Alphanumeric section
+    key <TLDE> { [	U1D8DA] }; // symbol of ည၊ ဉ    
+    key <AE01> { [	U1D800] }; // symbol of ၁၊ ဍ၊ ဇ
+    key <AE02> { [	U1D80E] }; // symbol of ၂၊ ခ 
+    key <AE03> { [  U1D886] }; // symbol of ၃
+    key <AE04> { [	U1D844] }; // symbol of ၄၊ ဗ
+    key <AE05> { [	U1D84C] }; // symbol of ၅
+    key <AE06> { [	U1D988] }; // symbol for movement 
+    key <AE07> { [	U1D9A6] }; // symbol for movement 
+    key <AE08> { [	U1D92A] }; // symbol for movement
+    key <AE09> { [	U1D942] }; // symbol for movement
+    key <AE10> { [	U1D876] }; // symbol of ဥ
+    key <AE11> { [	U1D965,	U1D9DC] }; // symbols for movement
+    key <AE12> { [	U1D9E3,	U1D9E3] }; // symbols for movement
+
+    key <AD01> { [	U1DAA0,	U1DAA8] }; // Rotation modifiers
+    key <AD02> { [	U1DAA1,	U1DAA9] }; // Rotation modifiers 
+    key <AD03> { [	U1DAA2,	U1DAAA] }; // Rotation modifiers
+    key <AD04> { [	U1DAA3,	U1DAAB] }; // Rotation modifiers
+
+    key <AD05> { [	U1DA9A,	U1DA9D] }; // symbols for plam (Fill modifiers)
+    key <AD06> { [	U1DA9B,	U1DA9E] }; // symbols for side of hand (Fill modifiers)
+    key <AD07> { [	U1DA9C,	U1DA9F] }; // symbols for back of hand (Fill modifiers)
+
+    key <AD08> { [	U1DAA4,	U1DAAC] }; // Rotation modifiers
+    key <AD09> { [	U1DAA5,	U1DAAD] }; // Rotation modifiers
+    key <AD10> { [	U1DAA6,	U1DAAE] }; // Rotation modifiers
+    key <AD11> { [	U1DAA7,	U1DAAF] }; // Rotation modifiers 
+    key <AD12> { [	U1D97B, 	U1D905] }; // symbols for movement
+
+    key <AC01> { [	U1D887,	U1D8D5] }; // symbol for ဝ,
+				 // symbol for ေ 
+    key <AC02> { [	U1D80A,	U1D806  ] }; // symbol for ဖ,
+				   // symbol for ဆ
+    key <AC03> { [	U1D801,	U1D80F] }; // symbol for ဒ၊ ပ,
+				 // symbol for ဓ
+    key <AC04> { [	U1D8DC,	U1D82D] }; // symbol for လ၊ င,
+				 // symbol for ဠ
+    key <AC05> { [	U1D810,	U1D88B] }; // symbol for ၏,
+				 // symbol for ဤ 
+    key <AC06> { [	U1D815,	U1D81A ] }; // symbol for ယ၊ ဈ,
+				  // symbol for ရ
+    key <AC07> { [	U1D847,	U1D877 ] }; // symbol for ဘ,
+				  // symbol for ွ
+    key <AC08> { [	U1D85B,	U1D85D] }; // symbol for င်္,
+				 // symbol for ်
+    key <AC09> { [	U1D8EF,	U1D83D] }; // symbol for ဂ၊  ဃ,
+				 // symbol for ဟ
+    key <AC10> { [	U1D882,	U1D879] }; // symbol for ါ,
+				 // symbol for ာ
+    key <AC11> { [	U1D86D, 	U1D866] }; // symbol for က,
+				 // symbol for ၌
+    
+
+    key <AB01> { [	U1D8F5] }; // symbol for ၎င်း 
+    key <AB02> { [	U1D903] }; // symbol for စ
+    key <AB03> { [	U1D8F7] }; // symbol for ြ
+    key <AB04> { [	U1D8F8] }; // symbol for အ
+    key <AB05> { [	U1D8FB] }; // symbol for ဌ၊ ထ
+    key <AB06> { [	U1D8FD] }; // symbol for မ
+    key <AB07> { [	U1D8FC] }; // symbol for ဏ၊ န
+    key <AB08> { [	U1D84A] }; // symbol for ီ
+    key <AB09> { [	U1D892] }; // symbol for ဋ၊ တ
+    key <AB10> { [	U1D89A] }; // symbol for သ
+    key <BKSL> { [	backslash,	bar ] }; 
+
+
+    // This key mapping is for JP pc106 keyboards (just left of right-shift key)
+    key <AB11> { [ backslash, bar ] };
+    
+    // CAPS key will work like Shift key
+    //key <CAPS> { [ ISO_Level3_Shift]};
+
+    // CAPS key will work like Shift key
+    //key <CAPS> { [ ISO_Level5_Shift]};
+
+    //key <CAPS> { [ ISO_Level5_Shift, ISO_Level5_Shift, ISO_Level5_Shift, ISO_Level5_Shift ] };
+    key <RALT>  { type[Group1]="TWO_LEVEL",
+                [ ISO_Level3_Shift, Multi_key ]   };
+    modifier_map Mod5   { <RALT> };
+    
+    // End alphanumeric section
+
+
+};
+
+
+// for updating:
+//sudo dpkg-reconfigure xkb-data
+
+//for testing keyboard mapping:
+//xev | sed -ne '/^KeyPress/,/^$/p'
+
