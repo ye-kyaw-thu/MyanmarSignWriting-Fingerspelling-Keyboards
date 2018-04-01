@@ -18,5 +18,5 @@ Hlaing Myat Nwe, Ye Kyaw Thu, Hnin Wai Wai Hlaing, Swe Zin Moe, Ni Htwe Aung , H
 
 ## Reference
 
-[Sutton SignWriting Unicode standard version 10.0](https://unicode.org/charts/PDF/U1D800.pdf)  
+[Sutton SignWriting Unicode standard (version 10.0)](https://unicode.org/charts/PDF/U1D800.pdf)  
 [kKg Myanmar Keyboard Layout](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard)  
