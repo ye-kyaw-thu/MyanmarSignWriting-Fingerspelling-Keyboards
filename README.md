@@ -15,3 +15,7 @@ We would like to thank teachers and students from School for the Deaf, Mandalay 
 
 ## Citing  
 Hlaing Myat Nwe, Ye Kyaw Thu, Hnin Wai Wai Hlaing, Swe Zin Moe, Ni Htwe Aung , Hnin Aye Thant , Nanda Win Min, "Two Fingerspelling Keyboard Layouts for Myanmar SignWriting", In Proceedings of ICCA2018, February 22-23, 2018, Yangon, Myanmar, pp. 290-298. [Paper](https://github.com/ye-kyaw-thu/MSL4Emergency/blob/master/publications/msw-fingerspelling-keyboards-ICCA2018.pdf)  
+
+## Reference
+
+[Sutton SignWriting Unicode standard version 10.0](https://unicode.org/charts/PDF/U1D800.pdf)
