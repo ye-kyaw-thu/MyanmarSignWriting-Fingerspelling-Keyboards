@@ -1,1 +1,11 @@
-To write some notes ...
+File information for your reference.
+
+XKB Keyboard files:
+
+msw-fs-phonetic
+msw-fs-symbol
+
+Detail Information of Keyboard Mappings:
+
+phonetic-based-keyboard-mapping.pdf
+symbol-based-keyboard-mapping.pdf
