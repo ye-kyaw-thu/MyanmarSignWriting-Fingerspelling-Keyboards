@@ -6,7 +6,7 @@ ReadMe file is still preparing ...
 မြန်မာလိုဖတ်မယ်ဆိုရင် --> [README in Myanmar Language](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/README-Myanmar.md)  
 
 ## Typing Demo Video
-Typing demo videos of three Myanmar poems with both phonetic-based and symbol-based keyboards are uploaded.
+Typing demo videos of three Myanmar poems with both phonetic-based and symbol-based keyboards are uploaded.  
 Check the folder demo-video/.  
 
 ## Installation  
