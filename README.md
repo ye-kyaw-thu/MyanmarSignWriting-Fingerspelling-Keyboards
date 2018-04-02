@@ -3,7 +3,7 @@ We proposed two fingerspelling keyboard layouts for typing Myanmar fingerspellin
 
 We learned both Myanmar fingerspelling and SignWriting. The followings are the mapping table of Myanmar characters, fingerspelling and SignWriting.   
 
-![consonant](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/consonant.png)  
+![consonant](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/consonant.png|wide=100)  
 
 ReadMe file is still preparing ...
 
