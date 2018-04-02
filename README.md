@@ -76,7 +76,8 @@ Adding above line according to the alphabetical order is better for searching (s
 
 ![selecting-kkg-eg](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/select-msw-fs-pho-kb.jpeg)
 
-You can also switch keyboard layout by pressing "Super Key" + "Space Bar". Here, "Super Key" is Windows key or Command key.
+You can also switch keyboard layout by pressing "Super Key" + "Space Bar".  
+Here, "Super Key" is Windows key or Command key.  
 
 Note: Depends on your Ubuntu OS distributions, sometimes you also have to update base.lst, base.xml, xfree86.lst and xfree86.xml. One more information is that you might need to reboot for activating a new keyboard layout.  
 
