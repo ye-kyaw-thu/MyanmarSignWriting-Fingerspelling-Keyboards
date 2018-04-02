@@ -62,7 +62,7 @@ If you want to add one of the Myanmar SignWriting Fingerspelling keyboards as a 
 
 Adding above line according to the alphabetical order is better for searching (see the following figure):
 
-![adding-in-evdev.lst-file](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/adding-kkg-evdev.lst.png)
+![adding-in-evdev.lst-file](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/adding-in-evdev.lst-file.png)
 
 5. Open "Text Entry dialogue box" by clicking "US" (If your current keyboard layout is US) and selecting the "Text Entry Settings...".
 
