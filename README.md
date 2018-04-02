@@ -72,7 +72,7 @@ Adding above line according to the alphabetical order is better for searching (s
 
 ![choose-an-kkg-input-Source](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/ChooseAnInputSource-msw-fs-pho.png)
 
-7. To test "MSW Fingerspelling (Phonetic)" keyboard layout is working or not, look at the keyboard layout icon, in the upper-right corner of your screen, and then switch your current keyboard layout to "kKg (Myanmar)" (see following figure).
+7. To test "MSW Fingerspelling (Phonetic)" keyboard layout is working or not, look at the keyboard layout icon, in the upper-right corner of your screen, and then switch your current keyboard layout to "MSW Fingerspelling (Phonetic)" (see following figure).
 
 ![selecting-kkg-eg](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/select-msw-fs-pho-kb.jpeg)
 
