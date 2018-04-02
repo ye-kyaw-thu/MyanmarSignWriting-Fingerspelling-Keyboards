@@ -42,10 +42,10 @@ If you want to add one of the Myanmar SignWriting Fingerspelling keyboards as a 
  ```xml
  <layout> 
       <configItem>
-        <name>kkg</name>
+        <name>msw-fs-phonetic</name>
         
-        <shortDescription>kkg</shortDescription>
-        <description>kKg (Myanmar)</description>
+        <shortDescription>msw fs phonetic</shortDescription>
+        <description>MSW Fingerspelling (Phonetic)</description>
         <languageList>
           <iso639Id>mya</iso639Id>
         </languageList>
@@ -57,7 +57,7 @@ If you want to add one of the Myanmar SignWriting Fingerspelling keyboards as a 
  4. Open evdev.lst file and add following line:
  
  ```
-  kkg             kKg (Myanmar)
+  msw-fs-phonetic             MSW Fingerspelling (Phonetic)
  ```
 
 Adding above line according to the alphabetical order is better for searching (see the following figure):
