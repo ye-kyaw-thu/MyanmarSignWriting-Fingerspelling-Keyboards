@@ -80,7 +80,7 @@ Adding above line according to the alphabetical order is better for searching (s
 
 You can also switch keyboard layout by pressing "Super Key" + "Space Bar". Here, "Super Key" is Windows key or Command key.
 
-Note: Depends on your Ubuntu OS distributions, sometimes you also have to update base.lst, base.xml, xfree86.lst, xfree86.xml as I mentioned in step 3 and 4. One more information is that I have to reboot for activating a new keyboard layout on Ubuntu OS 14.04 LTS computer.  
+Note: Depends on your Ubuntu OS distributions, sometimes you also have to update base.lst, base.xml, xfree86.lst and xfree86.xml. One more information is that you might need to reboot for activating a new keyboard layout.  
 
 ## Lincense
 MIT License
