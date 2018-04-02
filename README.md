@@ -19,9 +19,7 @@ Typing a Myanmar poem with symbol-based Myanmar SignWriting fingerspelling keybo
 
 
 ## Installation  
-To writedown some installation steps ...  
 
-### Installation Method  
 If you want to add one of the Myanmar SignWriting Fingerspelling keyboards as a new keyboard layout in your X Windows:  
 (I assume you already downloaded xkb keyboard files from this GitHub)
 
