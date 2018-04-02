@@ -68,13 +68,13 @@ Adding above line according to the alphabetical order is better for searching (s
 
 *Another option: You can also open "Text Entry dialogue box" by clicking the "Settings icon" in the upper-right corner of the screen, select "System Setting..." and then select "Text Entry".*
 
-![text-entry-dialogue-box](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/Text-Entry-Dbox.jpg) 
+![text-entry-dialogue-box](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/Text%20Entry_dlBox1.png) 
 
-6. Click the "+" button under the list of installed keyboard layouts and then select "kkg (Myanmar)" as shown in the following figure:
+6. Click the "+" button under the list of installed keyboard layouts and then select "MSW Fingerspelling (Phonetic)" as shown in the following figure:
 
-![choose-an-kkg-input-Source](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/ChooseAnInputSource.jpg)
+![choose-an-kkg-input-Source](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/ChooseAnInputSource-msw-fs-pho.png)
 
-7. To test "kKg (Myanmar)" keyboard layout is working or not, look at the keyboard layout icon, in the upper-right corner of your screen, and then switch your current keyboard layout to "kKg (Myanmar)" (see following figure).
+7. To test "MSW Fingerspelling (Phonetic)" keyboard layout is working or not, look at the keyboard layout icon, in the upper-right corner of your screen, and then switch your current keyboard layout to "kKg (Myanmar)" (see following figure).
 
 ![selecting-kkg-eg](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/selecting-kkg-eg.jpg)
 
