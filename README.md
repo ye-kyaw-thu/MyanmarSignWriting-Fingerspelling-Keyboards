@@ -21,13 +21,13 @@ Typing a Myanmar poem with symbol-based Myanmar SignWriting fingerspelling keybo
 ## Installation  
 To writedown some installation steps ...  
 
-### Installation Method (2)  
-If you want to add kKg keyboard as a new keyboard layout in your X Windows:  
-(I assume you already downloaded kKg-Myanmar-Keyboard from this GitHub)
+### Installation Method  
+If you want to add one of the Myanmar SignWriting Fingerspelling keyboards as a new keyboard layout in your X Windows:  
+(I assume you already downloaded xkb keyboard files from this GitHub)
 
- 1. Copy downloaded [kkg](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/ver1/kkg) symbols file to /usr/share/X11/xkb/symbols/ path:
+ 1. Copy downloaded [msw-fs-phonetic](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/msw-fs-phonetic) symbols file to /usr/share/X11/xkb/symbols/ path:
  ```
-    sudo cp ~/your-download-path/kkg /usr/share/X11/xkb/symbols/kkg
+    sudo cp ~/your-download-path/msw-fs-phonetic /usr/share/X11/xkb/symbols/msw-fs-phonetic
  ```
  2. Change to /usr/share/X11/xkb/rules/:
  ```
