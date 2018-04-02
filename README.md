@@ -21,6 +21,67 @@ Typing a Myanmar poem with symbol-based Myanmar SignWriting fingerspelling keybo
 ## Installation  
 To writedown some installation steps ...  
 
+### Installation Method (2)  
+If you want to add kKg keyboard as a new keyboard layout in your X Windows:  
+(I assume you already downloaded kKg-Myanmar-Keyboard from this GitHub)
+
+ 1. Copy downloaded [kkg](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/ver1/kkg) symbols file to /usr/share/X11/xkb/symbols/ path:
+ ```
+    sudo cp ~/your-download-path/kkg /usr/share/X11/xkb/symbols/kkg
+ ```
+ 2. Change to /usr/share/X11/xkb/rules/:
+ ```
+ cd /usr/share/X11/xkb/rules
+ ```
+ 3. Open evdev.xml file with an editor such as vi, emacs and gedit:
+ ```
+ sudo gedit evdev.xml
+ ```
+  put following XML content, save and quit:
+ 
+ ```xml
+ <layout> 
+      <configItem>
+        <name>kkg</name>
+        
+        <shortDescription>kkg</shortDescription>
+        <description>kKg (Myanmar)</description>
+        <languageList>
+          <iso639Id>mya</iso639Id>
+        </languageList>
+      </configItem>
+      <variantList/>
+    </layout> 
+ ```
+ 
+ 4. Open evdev.lst file and add following line:
+ 
+ ```
+  kkg             kKg (Myanmar)
+ ```
+
+Adding above line according to the alphabetical order is better for searching (see the following figure):
+
+![adding-in-evdev.lst-file](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/adding-kkg-evdev.lst.png)
+
+5. Open "Text Entry dialogue box" by clicking "US" (If your current keyboard layout is US) and selecting the "Text Entry Settings...".
+
+*Another option: You can also open "Text Entry dialogue box" by clicking the "Settings icon" in the upper-right corner of the screen, select "System Setting..." and then select "Text Entry".*
+
+![text-entry-dialogue-box](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/Text-Entry-Dbox.jpg) 
+
+6. Click the "+" button under the list of installed keyboard layouts and then select "kkg (Myanmar)" as shown in the following figure:
+
+![choose-an-kkg-input-Source](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/ChooseAnInputSource.jpg)
+
+7. To test "kKg (Myanmar)" keyboard layout is working or not, look at the keyboard layout icon, in the upper-right corner of your screen, and then switch your current keyboard layout to "kKg (Myanmar)" (see following figure).
+
+![selecting-kkg-eg](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard/blob/master/xkb-intro/selecting-kkg-eg.jpg)
+
+You can also switch keyboard layout by pressing "Super Key" + "Space Bar". Here, "Super Key" is Windows key or Command key.
+
+Note: Depends on your Ubuntu OS distributions, sometimes you also have to update base.lst, base.xml, xfree86.lst, xfree86.xml as I mentioned in step 3 and 4. One more information is that I have to reboot for activating a new keyboard layout on Ubuntu OS 14.04 LTS computer.  
+
 ## Lincense
 MIT License
 
