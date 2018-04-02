@@ -27,7 +27,7 @@ If you want to add one of the Myanmar SignWriting Fingerspelling keyboards as a 
  ```
     sudo cp ~/your-download-path/msw-fs-phonetic /usr/share/X11/xkb/symbols/msw-fs-phonetic
  ```
- 2. Change to /usr/share/X11/xkb/rules/:
+ 2. Change to the path /usr/share/X11/xkb/rules/:
  ```
  cd /usr/share/X11/xkb/rules
  ```
