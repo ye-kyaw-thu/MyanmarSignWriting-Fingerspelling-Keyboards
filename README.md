@@ -34,7 +34,7 @@ Typing a Myanmar poem with symbol-based Myanmar SignWriting fingerspelling keybo
 
 ## Installation  
 
-If you want to add one of the Myanmar SignWriting Fingerspelling keyboards as a new keyboard layout in your X Windows:  
+If you want to add one of the Myanmar SignWriting Fingerspelling keyboards (e.g. phonetic-based keyboard) as a new keyboard layout in your X Windows:  
 (I assume you already downloaded xkb keyboard files from this GitHub)
 
  1. Copy downloaded [msw-fs-phonetic](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/msw-fs-phonetic) file to /usr/share/X11/xkb/symbols/ path:
