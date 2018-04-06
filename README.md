@@ -6,14 +6,19 @@ We learned both Myanmar fingerspelling and SignWriting. The followings are the m
 ### Consonant:  
 ![consonant](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/consonant.png) <!-- .element height="25%" width="25%" --> 
 
+### Vowel:
 ![vowel](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/vowel.png)  
 
+### Independent Vowel (1):  
 ![independent-vowel1](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/independent-vowel1.png)  
 
+### Independent Vowel (2):  
 ![independent-vowel2](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/independent-vowel2.png)  
 
+### Symbols:  
 ![symbols](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/symbols.png)  
 
+### Number:  
 ![numbers](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/numbers.png)  
 
 ReadMe file is still preparing ...
