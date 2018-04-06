@@ -112,5 +112,7 @@ Hlaing Myat Nwe, Ye Kyaw Thu, Hnin Wai Wai Hlaing, Swe Zin Moe, Ni Htwe Aung , H
 
 ## Reference
 
+[Wikipedia of SignWriting](https://en.wikipedia.org/wiki/SignWriting)
+[Youtube Video of "Valerie Sutton Tells Her Story ..."](https://www.youtube.com/watch?v=xzYW8_Br2MM)
 [Sutton SignWriting Unicode standard (version 10.0)](https://unicode.org/charts/PDF/U1D800.pdf)  
 [kKg Myanmar Keyboard Layout](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard)  
