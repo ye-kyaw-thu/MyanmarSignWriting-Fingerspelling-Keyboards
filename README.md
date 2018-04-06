@@ -1,4 +1,7 @@
 # MyanmarSignWriting-Fingerspelling-Keyboards
+
+FYI: Work in progress ...
+
 We proposed two fingerspelling keyboard layouts for typing Myanmar fingerspelling characters with [SignWriting](https://en.wikipedia.org/wiki/SignWriting). Fingerspelling is used in sign language to spell out names of people and places for which there is not a sign.  
 
 We learned both Myanmar fingerspelling and SignWriting. The followings are the mapping table of Myanmar characters, fingerspelling and SignWriting.   
