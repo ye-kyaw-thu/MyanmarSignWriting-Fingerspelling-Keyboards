@@ -2,6 +2,8 @@
 ပြင်ဆင်နေဆဲ ...  
 
 # MyanmarSignWriting-Fingerspelling-Keyboards
+လက်သင်္ကေတ ဘာသာစကား (sign language) က နားမကြားသူများ၊ အကြားအာရုံချို့တဲ့သူများ၊ အပြောဆိုင်ရာမသန်စွမ်းသူနှင့် နားလည်းမကြား စကားလဲ မပြောနိုင်သူတွေ အတွက် မရှိမဖြစ်လိုအပ်သော ဘာသာစကား တစ်ခုဖြစ်ပါသည်။ လက်သင်္ကေတ ဘာသာစကားကို စာလုံးအနေနဲ့ ရေးသားလို့ရအောင် သုံးတဲ့ လက်သင်္ကေတ အရေးအသား ([SignWriting](https://en.wikipedia.org/wiki/SignWriting)) ဆိုတာရှိပါတယ်။  
+
 We proposed two fingerspelling keyboard layouts for typing Myanmar fingerspelling characters with [SignWriting](https://en.wikipedia.org/wiki/SignWriting). Fingerspelling is used in sign language to spell out names of people and places for which there is not a sign.  
 
 We learned both Myanmar fingerspelling and SignWriting. The followings are the mapping table of Myanmar characters, fingerspelling and SignWriting.   
