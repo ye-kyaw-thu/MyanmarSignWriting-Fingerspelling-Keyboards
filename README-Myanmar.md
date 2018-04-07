@@ -22,7 +22,9 @@
  </p>
  
 ## သရ စာလုံးများ
-![vowel](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/vowel.png)  
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/vowel.png" alt="vowel" width="500x" height="200x" />
+</p>
 
 ## အက္ခရာ သင်္ကေတ စာလုံးများ (၁)  
 ![independent-vowel1](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/independent-vowel1.png)  
