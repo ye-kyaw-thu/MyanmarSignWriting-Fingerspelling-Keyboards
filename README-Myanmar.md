@@ -30,6 +30,11 @@
 ## ဂဏန်း (သို့) နံပါတ်များ  
 ![numbers](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/numbers.png)  
 
+## မြန်မာ SignWriting Fingerspelling ကီးဘုတ်လက်ကွက် နှစ်မျိုး  
+
+![Phonetic-based-MSW-Fingerspelling-Keyboard](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/MSW-Fingerspelling-KB-Phonetic-Based.png)
+![Symbol-based-MSW-Fingerspelling-Keyboard](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/MSW-Fingerspelling-KB-Symbol-Based.png)
+
 ## မြန်မာကဗျာ နှစ်ပုဒ်ကို SignWriting သင်္ကေတစာလုံးတွေဖြင့် သရုပ်ပြ ရိုက်ပြခြင်း
 Typing demo videos of three Myanmar poems with both phonetic-based and symbol-based keyboards are uploaded to GitHub and Youtube.  
 After you downloaded, check the demo-video/ folder.  
