@@ -44,7 +44,7 @@ We proposed two possible keyboard mappings for typing Myanmar fingerspelling wit
 
 ## Phonetic-based MSW Fingerspelling Keyboard:  
 <p align="center">
-<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/MSW-Fingerspelling-KB-Phonetic-Based.png" alt="phonetic-based-MSW-fingerspelling-keyboard" width="500x" height="180x" />
+<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/MSW-Fingerspelling-KB-Phonetic-Based.png" alt="phonetic-based-MSW-fingerspelling-keyboard" width="800x" height="300x" />
 </p> 
 
 ## Symbol-based MSW Fingerspelling Keyboard:  
