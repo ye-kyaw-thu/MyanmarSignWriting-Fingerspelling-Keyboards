@@ -12,7 +12,7 @@
 
 မြန်မာ လက်သင်္ကေတဘာသာစကား မှာ သုံးတဲ့ လက်နဲ့ပြတဲ့ မြန်မာစာလုံး (Myanmar Fingerspelling) အားလုံးအတွက်ကို SignWriting သင်္ကေတစာလုံးတွေကို သုံးပြီး ဆီလျော်အောင် နေရာချထားခဲ့ပါတယ်။ အင်္ဂလိပ်လို ပြောမယ်ဆိုရင်တော့ character mapping table က အောက်ပါအတိုင်း ဖြစ်ပါတယ်။ 
 
-### ဗျည်း စာလုံးများ:  
+### _ဗျည်း စာလုံးများ_  
 ![consonant](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/consonant.png) <!-- .element height="25%" width="25%" --> 
 
 ### သရ စာလုံးများ:
