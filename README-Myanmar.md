@@ -10,22 +10,22 @@
 
 ဆက်လက်ပြီး ဒီ မြန်မာလို README ဖိုင်မှာတော့ ကျွန်တော်တို့က SingWriting သင်္ကေတ တွေကို မြန်မာ လက်သင်္ကေတဘာသာစကားရဲ့ fingerspelling တွေအတွက် ဘယ်လို သင်္ကေတတွေကို ရွေးသုံးခဲ့တယ်။ နောက်ပြီးတော့ ကီးဘုတ်လက်ကွက် နှစ်ခုနဲ့ ပတ်သက်ပြီးလည်း ဘယ်လို အယူအဆ (concept) နဲ့ key mapping လုပ်ထားခဲ့တယ်၊ ကီးဘုတ်တွေကို Ubuntu Linux OS ကွန်ပျူတာတွေမှာ ဘယ်လို install လုပ်ရတယ်ဆိုတာတွေကို အကြမ်းမျဉ်း ရှင်းပြသွားပါမယ်။  
 
-### Consonant:  
+### ဗျည်း စာလုံးများ:  
 ![consonant](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/consonant.png) <!-- .element height="25%" width="25%" --> 
 
-### Vowel:
+### သရ စာလုံးများ:
 ![vowel](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/vowel.png)  
 
-### Independent Vowel (1):  
+### အက္ခရာ သင်္ကေတ စာလုံးများ (၁):  
 ![independent-vowel1](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/independent-vowel1.png)  
 
-### Independent Vowel (2):  
+### အက္ခရာ သင်္ကေတ စာလုံးများ (၂):  
 ![independent-vowel2](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/independent-vowel2.png)  
 
-### Symbol:  
+### ပုဒ်ထီး၊ ပုဒ်မ နှင့် တခြား သင်္ကေတများ:  
 ![symbols](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/symbols.png)  
 
-### Number:  
+### ဂဏန်း:  
 ![numbers](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/numbers.png)  
 
 ReadMe file is still preparing ...
