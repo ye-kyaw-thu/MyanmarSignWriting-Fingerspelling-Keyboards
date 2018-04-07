@@ -9,22 +9,34 @@ We proposed two fingerspelling keyboard layouts for typing Myanmar fingerspellin
 We learned both Myanmar fingerspelling and SignWriting. The followings are the mapping table of Myanmar characters, fingerspelling and SignWriting.   
 
 ### Consonant:  
-![consonant](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/consonant.png) <!-- .element height="25%" width="25%" --> 
+<p align="center">
+ <img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/consonant.png" alt="consonant" width="500px" height="750px" /> 
+</p>
 
 ### Vowel:
-![vowel](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/vowel.png)  
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/vowel.png" alt="vowel" width="500x" height="200x" />
+</p>
 
 ### Independent Vowel (1):  
-![independent-vowel1](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/independent-vowel1.png)  
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/independent-vowel1.png" alt="independent-vowel-1" width="500x" height="100x" />
+</p>
 
 ### Independent Vowel (2):  
-![independent-vowel2](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/independent-vowel2.png)  
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/independent-vowel2.png" alt="independent-vowel-2" width="500x" height="100x" />
+</p>
 
 ### Symbol:  
-![symbols](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/symbols.png)  
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/symbols.png" alt="symbol" width="500x" height="300x" />
+</p>
 
 ### Number:  
-![numbers](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/numbers.png)  
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/numbers.png" alt="independent-vowel-2" width="500x" height="180x" />
+</p>
 
 ## Two Myanmar SignWriting Fingerspelling Keyboards
 
