@@ -58,8 +58,6 @@ After you downloaded, check the demo-video/ folder.
 
 Typing a Myanmar poem with phonetic-based Myanmar SignWriting fingerspelling keyboard:
 
-<iframe width="854" height="480" src="https://www.youtube.com/watch?v=NCsfay9HP5M" frameborder="0" allowfullscreen></iframe>
-
 [![Typing a Myanmar poem with phonetic-based Myanmar SignWriting fingerspelling keyboard](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/demo-video/images/image-typing-demo-msw-fs-pho-kb-poem1-btn.png)](https://www.youtube.com/watch?v=NCsfay9HP5M)  
 
 Typing a Myanmar poem with symbol-based Myanmar SignWriting fingerspelling keyboard:
