@@ -26,6 +26,16 @@ We learned both Myanmar fingerspelling and SignWriting. The followings are the m
 ### Number:  
 ![numbers](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/numbers.png)  
 
+## Two Myanmar SignWriting Fingerspelling Keyboards
+
+We proposed two possible keyboard mappings for typing Myanmar fingerspelling with SignWriting symbols and they are phonetic-based and symbol-based keyboard layouts.  
+
+## Phonetic-based MSW Fingerspelling Keyboard:  
+![Phonetic-based-MSW-Fingerspelling-Keyboard](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/MSW-Fingerspelling-KB-Phonetic-Based.png)  
+
+## Symbol-based MSW Fingerspelling Keyboard:  
+![Symbol-based-MSW-Fingerspelling-Keyboard](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/MSW-Fingerspelling-KB-Symbol-Based.png)  
+
 ## Demo Videos of Typing Myanmar SignWriting Fingerspelling Text
 Typing demo videos of three Myanmar poems with both phonetic-based and symbol-based keyboards are uploaded to GitHub and Youtube.  
 After you downloaded, check the demo-video/ folder.  
