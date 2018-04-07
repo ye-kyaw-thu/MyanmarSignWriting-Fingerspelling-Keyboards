@@ -43,7 +43,9 @@ We learned both Myanmar fingerspelling and SignWriting. The followings are the m
 We proposed two possible keyboard mappings for typing Myanmar fingerspelling with SignWriting symbols and they are phonetic-based and symbol-based keyboard layouts.  
 
 ## Phonetic-based MSW Fingerspelling Keyboard:  
-![Phonetic-based-MSW-Fingerspelling-Keyboard](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/MSW-Fingerspelling-KB-Phonetic-Based.png)  
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/MSW-Fingerspelling-KB-Phonetic-Based.png" alt="phonetic-based-MSW-fingerspelling-keyboard" width="500x" height="180x" />
+</p> 
 
 ## Symbol-based MSW Fingerspelling Keyboard:  
 ![Symbol-based-MSW-Fingerspelling-Keyboard](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/MSW-Fingerspelling-KB-Symbol-Based.png)  
