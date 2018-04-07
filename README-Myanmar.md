@@ -34,6 +34,8 @@
 
 ပရိုပိုဇယ်အနေနဲ့ ICCA2018 conference မှာ စာတမ်းဖတ် ဆွေးနွေးခဲ့ကြတဲ့၊ အသုံးပြုလို့ ရနိုင်၊ မှတ်မိရလွယ်ကူနိုင်မဲ့ ကီးဘုတ်လက်ကွက် နှစ်မျိုးအနက်၊ တစ်မျိုးကတော့ မြန်မာစာ စာလုံးတွေရဲ့ အသံထွက်ကို အခြေခံထားတဲ့ (phonetic-based) လက်ကွက် ဖြစ်ပြီး၊ နောက်တစ်မျိုးကတော့ SignWriting သင်္ကေတစာလုံးတွေရဲ့ ပုံစံတူတာကို အခြေခံထားတဲ့ (symbol-based) လက်ကွက် ဖြစ်ပါတယ်။  
 
+အသံထွက်ကို အခြေခံထားတဲ့ လက်ကွက်ရဲ့ နေရာချပုံကတော့ အရင်ကတည်းက GitHub မှာ တင်ပေးထားတဲ့ [kKg (ကခဂ) ကီးဘုတ်လက်ကွက်](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard) မှာ ရှင်းပြထားတဲ့ အတိုင်းပါပဲ။ အခြေခံအားဖြင့် MSW fingerspelling "ကကြီး" စာလုံးကို အင်္ဂလိပ်စာလုံး "k" ကီး, "ခကွေး" အတွက်က "K (Shift+k)", "ဂငယ်" စာလုံးအတွက်က "g" ကီးမှာ နေရာချတဲ့ concept ပါ။  
+
 ![Phonetic-based-MSW-Fingerspelling-Keyboard](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/MSW-Fingerspelling-KB-Phonetic-Based.png)
 
 ![Symbol-based-MSW-Fingerspelling-Keyboard](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/MSW-Fingerspelling-KB-Symbol-Based.png)
