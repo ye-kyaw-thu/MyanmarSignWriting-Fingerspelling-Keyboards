@@ -26,7 +26,7 @@
 <img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/vowel.png" alt="vowel" width="500x" height="200x" />
 </p>
 
-## အက္ခရာ သင်္ကေတ စာလုံးများ (၁)  
+## အက္ခရာ သင်္ကေတ စာလုံးများ  
 <p align="center">
 <img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/independent-vowel1.png" alt="independent-vowel-1" width="500x" height="100x" />
 <img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/independent-vowel2.png" alt="independent-vowel-2" width="470x" height="100x" />
