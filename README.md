@@ -24,8 +24,6 @@ We learned both Myanmar fingerspelling and SignWriting. The followings are the m
 ### Number:  
 ![numbers](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/numbers.png)  
 
-ReadMe file is still preparing ...
-
 မြန်မာလိုဖတ်မယ်ဆိုရင် --> [README in Myanmar Language](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/README-Myanmar.md)  
 
 ## Demo Videos of Typing Myanmar SignWriting Fingerspelling Text
