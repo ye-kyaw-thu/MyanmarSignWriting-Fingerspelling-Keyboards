@@ -10,6 +10,8 @@
 
 ဆက်လက်ပြီး ဒီ မြန်မာလို README ဖိုင်မှာတော့ ကျွန်တော်တို့က SingWriting သင်္ကေတ တွေကို မြန်မာ လက်သင်္ကေတဘာသာစကားရဲ့ fingerspelling တွေအတွက် ဘယ်လို သင်္ကေတတွေကို ရွေးသုံးခဲ့တယ်။ နောက်ပြီးတော့ ကီးဘုတ်လက်ကွက် နှစ်ခုနဲ့ ပတ်သက်ပြီးလည်း ဘယ်လို အယူအဆ (concept) နဲ့ key mapping လုပ်ထားခဲ့တယ်၊ ကီးဘုတ်တွေကို Ubuntu Linux OS ကွန်ပျူတာတွေမှာ ဘယ်လို install လုပ်ရတယ်ဆိုတာတွေကို အကြမ်းမျဉ်း ရှင်းပြသွားပါမယ်။  
 
+မြန်မာ လက်သင်္ကေတဘာသာစကား မှာ သုံးတဲ့ လက်နဲ့ပြတဲ့ မြန်မာစာလုံး (Myanmar Fingerspelling) အားလုံးအတွက်ကို SignWriting သင်္ကေတစာလုံးတွေကို သုံးပြီး ဆီလျော်အောင် နေရာချထားခဲ့ပါတယ်။ အင်္ဂလိပ်လို ပြောမယ်ဆိုရင်တော့ character mapping table က အောက်ပါအတိုင်း ဖြစ်ပါတယ်။ 
+
 ### ဗျည်း စာလုံးများ:  
 ![consonant](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/consonant.png) <!-- .element height="25%" width="25%" --> 
 
@@ -27,8 +29,6 @@
 
 ### ဂဏန်း:  
 ![numbers](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/numbers.png)  
-
-ReadMe file is still preparing ...
 
 မြန်မာလိုဖတ်မယ်ဆိုရင် --> [README in Myanmar Language](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/README-Myanmar.md)  
 
