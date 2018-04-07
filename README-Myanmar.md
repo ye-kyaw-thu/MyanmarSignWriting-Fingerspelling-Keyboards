@@ -53,11 +53,17 @@
 ### Phonetic-based ကီးဘုတ်လက်ကွက်  
 အသံထွက်ကို အခြေခံထားတဲ့ လက်ကွက်ရဲ့ နေရာချပုံကတော့ အရင်ကတည်းက GitHub မှာ တင်ပေးထားတဲ့ [kKg (ကခဂ) ကီးဘုတ်လက်ကွက်](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard) မှာ ရှင်းပြထားတဲ့ အတိုင်းပါပဲ။ အခြေခံအားဖြင့် MSW fingerspelling "ကကြီး" စာလုံးကို အင်္ဂလိပ်စာလုံးပေါင်းရင် "ka" မို့လို့ "k" ကီး၊ "ခကွေး" အတွက်က "kha" မို့လို့ "K (Shift+k)" နေရာမှာ၊ အလားတူပဲ "ဂငယ်" စာလုံးအတွက်က "ga" မို့လို့ "g" ကီးမှာ နေရာချတဲ့ concept ပါ။ စိတ်ပါဝင်စားသူများလေ့လာလို့ရအောင် ကီးနေရာချပုံအသေးစိတ်ကို သက်ဆိုင်ရာ SignWriting ယူနီကုဒ် နံပါတ်တွေပါ ဖော်ပြထားတဲ့ [အသံအခြေခံ ကီးလက်ကွက်ဇယားဖိုင်](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/phonetic-based-keyboard-mapping.pdf) သို့မဟုတ် [xkb ကီးဘုတ်လက်ကွက်ဖိုင်](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/msw-fs-phonetic) ကိုဖွင့်ကြည့်ပြီး လေ့လာပါ။ ကီးဘုတ်လက်ကွက် ပုံစံကတော့ အောက်ပါအတိုင်း ဖြစ်ပါတယ်။  
 
-![Phonetic-based-MSW-Fingerspelling-Keyboard](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/MSW-Fingerspelling-KB-Phonetic-Based.png)
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/MSW-Fingerspelling-KB-Phonetic-Based.png" alt="phonetic-based-MSW-fingerspelling-keyboard" width="800x" height="300x" />
+</p> 
 
 ### Symbol-based ကီးဘုတ်လက်ကွက်  
-သင်္ကေတ အခြေခံကီးဘုတ်ကတော့ SignWriting သင်္ကေတစာလုံး တွေရဲ့ ပုံသဏ္ဌန်ဆင်တူမှုကို အုပ်စု
-![Symbol-based-MSW-Fingerspelling-Keyboard](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/MSW-Fingerspelling-KB-Symbol-Based.png)
+သင်္ကေတ အခြေခံကီးဘုတ်ကတော့ SignWriting သင်္ကေတစာလုံး တွေရဲ့ ပုံသဏ္ဌန်ဆင်တူမှုကို အုပ်စု  
+
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/MSW-Fingerspelling-KB-Symbol-Based.png" alt="Symbol-based-MSW-Fingerspelling-Keyboard" width="800x" height="300x" />
+</p> 
+
 
 ## မြန်မာကဗျာ နှစ်ပုဒ်ကို SignWriting သင်္ကေတစာလုံးတွေဖြင့် သရုပ်ပြ ရိုက်ပြခြင်း
 Typing demo videos of three Myanmar poems with both phonetic-based and symbol-based keyboards are uploaded to GitHub and Youtube.  
