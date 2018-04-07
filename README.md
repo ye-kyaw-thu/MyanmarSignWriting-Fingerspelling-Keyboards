@@ -48,7 +48,9 @@ We proposed two possible keyboard mappings for typing Myanmar fingerspelling wit
 </p> 
 
 ## Symbol-based MSW Fingerspelling Keyboard:  
-![Symbol-based-MSW-Fingerspelling-Keyboard](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/MSW-Fingerspelling-KB-Symbol-Based.png)  
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/MSW-Fingerspelling-KB-Symbol-Based.png" alt="Symbol-based-MSW-Fingerspelling-Keyboard" width="800x" height="300x" />
+</p> 
 
 ## Demo Videos of Typing Myanmar SignWriting Fingerspelling Text
 Typing demo videos of three Myanmar poems with both phonetic-based and symbol-based keyboards are uploaded to GitHub and Youtube.  
