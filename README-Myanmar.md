@@ -43,7 +43,7 @@
 
 ## ဂဏန်း (သို့) နံပါတ်များ  
 <p align="center">
-<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/numbers.png" alt="independent-vowel-2" width="500x" height="100x" />
+<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/numbers.png" alt="independent-vowel-2" width="500x" height="150x" />
 </p>
 
 ## မြန်မာ SignWriting Fingerspelling ကီးဘုတ်လက်ကွက် နှစ်မျိုး  
