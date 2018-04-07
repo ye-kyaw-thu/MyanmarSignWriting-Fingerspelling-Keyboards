@@ -59,7 +59,7 @@ After you downloaded, check the demo-video/ folder.
 Typing a Myanmar poem with phonetic-based Myanmar SignWriting fingerspelling keyboard:
 
 <p align="center">
-<video src="<https://www.youtube.com/watch?v=NCsfay9HP5M>" width=400 controls>
+<video src="https://www.youtube.com/watch?v=NCsfay9HP5M" width=400 controls>
 </video>
 </p>
 
