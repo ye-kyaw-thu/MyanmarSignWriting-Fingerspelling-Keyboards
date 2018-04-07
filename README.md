@@ -20,12 +20,7 @@ We learned both Myanmar fingerspelling and SignWriting. The followings are the m
 
 ### Independent Vowel (1):  
 <p align="center">
-<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/independent-vowel1.png" alt="independent-vowel-1" width="500x" height="100x" />
-</p>
-
-### Independent Vowel (2):  
-<p align="center">
-<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/independent-vowel2.png" alt="independent-vowel-2" width="500x" height="100x" />
+<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/independent-vowel1.png" alt="independent-vowel-1" width="500x" height="100x" /><img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/independent-vowel2.png" alt="independent-vowel-2" width="470x" height="100x" />
 </p>
 
 ### Symbol:  
