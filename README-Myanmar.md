@@ -32,7 +32,10 @@
 
 ## မြန်မာ SignWriting Fingerspelling ကီးဘုတ်လက်ကွက် နှစ်မျိုး  
 
+ပရိုပိုဇယ်အနေနဲ့ ICCA2018 conference မှာ စာတမ်းဖတ် ဆွေးနွေးခဲ့ကြတဲ့၊ အသုံးပြုလို့ ရနိုင်၊ မှတ်မိရလွယ်ကူနိုင်မဲ့ ကီးဘုတ်လက်ကွက် နှစ်မျိုးအနက်၊ တစ်မျိုးကတော့ မြန်မာစာ စာလုံးတွေရဲ့ အသံထွက်ကို အခြေခံထားတဲ့ (phonetic-based) လက်ကွက် ဖြစ်ပြီး၊ နောက်တစ်မျိုးကတော့ SignWriting သင်္ကေတစာလုံးတွေရဲ့ ပုံစံတူတာကို အခြေခံထားတဲ့ (symbol-based) လက်ကွက် ဖြစ်ပါတယ်။  
+
 ![Phonetic-based-MSW-Fingerspelling-Keyboard](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/MSW-Fingerspelling-KB-Phonetic-Based.png)
+
 ![Symbol-based-MSW-Fingerspelling-Keyboard](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/MSW-Fingerspelling-KB-Symbol-Based.png)
 
 ## မြန်မာကဗျာ နှစ်ပုဒ်ကို SignWriting သင်္ကေတစာလုံးတွေဖြင့် သရုပ်ပြ ရိုက်ပြခြင်း
