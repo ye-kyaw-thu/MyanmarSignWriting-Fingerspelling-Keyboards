@@ -28,17 +28,23 @@
 
 ## အက္ခရာ သင်္ကေတ စာလုံးများ (၁)  
 <p align="center">
-<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/independent-vowel1.png" alt="independent-vowel" width="500x" height="100x" />
+<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/independent-vowel1.png" alt="independent-vowel-1" width="500x" height="100x" />
 </p>
 
 ## အက္ခရာ သင်္ကေတ စာလုံးများ (၂)  
-![independent-vowel2](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/independent-vowel2.png)  
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/independent-vowel2.png" alt="independent-vowel-2" width="500x" height="100x" />
+</p>
 
 ## ပုဒ်ထီး၊ ပုဒ်မ နှင့် တခြား သင်္ကေတများ  
-![symbols](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/symbols.png)  
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/symbols.png" alt="symbol" width="500x" height="300x" />
+</p>
 
 ## ဂဏန်း (သို့) နံပါတ်များ  
-![numbers](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/numbers.png)  
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/numbers.png" alt="independent-vowel-2" width="500x" height="100x" />
+</p>
 
 ## မြန်မာ SignWriting Fingerspelling ကီးဘုတ်လက်ကွက် နှစ်မျိုး  
 
