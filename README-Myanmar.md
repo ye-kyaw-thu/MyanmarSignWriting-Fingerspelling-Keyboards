@@ -18,7 +18,7 @@
 
  ## ဗျည်း စာလုံးများ  
  <p align="center">
- <img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/consonant.png" alt="consonant" width="500px" height="800px" /> 
+ <img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/consonant.png" alt="consonant" width="500px" height="750px" /> 
  </p>
  
 ## သရ စာလုံးများ
