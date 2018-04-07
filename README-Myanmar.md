@@ -15,19 +15,19 @@
 ## ဗျည်း စာလုံးများ  
 ![consonant](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/consonant.png) <!-- .element height="25%" width="25%" --> 
 
-## သရ စာလုံးများ:
+## သရ စာလုံးများ
 ![vowel](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/vowel.png)  
 
-## အက္ခရာ သင်္ကေတ စာလုံးများ (၁):  
+## အက္ခရာ သင်္ကေတ စာလုံးများ (၁)  
 ![independent-vowel1](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/independent-vowel1.png)  
 
-## အက္ခရာ သင်္ကေတ စာလုံးများ (၂):  
+## အက္ခရာ သင်္ကေတ စာလုံးများ (၂)  
 ![independent-vowel2](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/independent-vowel2.png)  
 
-## ပုဒ်ထီး၊ ပုဒ်မ နှင့် တခြား သင်္ကေတများ:  
+## ပုဒ်ထီး၊ ပုဒ်မ နှင့် တခြား သင်္ကေတများ  
 ![symbols](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/symbols.png)  
 
-## ဂဏန်း:  
+## ဂဏန်း  
 ![numbers](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/charmap/numbers.png)  
 
 မြန်မာလိုဖတ်မယ်ဆိုရင် --> [README in Myanmar Language](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/README-Myanmar.md)  
