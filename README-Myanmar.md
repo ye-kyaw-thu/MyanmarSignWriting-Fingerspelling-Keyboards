@@ -62,6 +62,8 @@
 `U+2023`
 𝠎
 
+Symbol modifier of၂၊ ခ
+
 <p align="center">
 <img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/MSW-Fingerspelling-KB-Symbol-Based.png" alt="Symbol-based-MSW-Fingerspelling-Keyboard" width="800x" height="300x" />
 </p> 
