@@ -78,7 +78,7 @@
 
 ကျွန်တော်တို့ ပရိုပိုဇယ် ကီးဘုတ်လက်ကွက်နှစ်ခုက Operating system (OS) အကန့်အသတ်မရှိပေမဲ့၊ လက်ရှိမှာတော့ သုတေသန အလုပ်တွေအတွက် အဓိကအသုံးပြုကြတဲ့ OS ဖြစ်ပြီး၊ Open source လည်းဖြစ်လို့ လွတ်လွတ်လပ်လပ် ပရိုဂရမ်ဝင်ရေး၊ OS system အတွင်းပိုင်းတွေကိုလည်း ဝင်ပြင်လို့အဆင်ပြေတဲ့ Linux OS တစ်ခုပေါ်မှာ (Ubuntu OS မှာ) ဘယ်လို install လုပ်ရမလဲဆိုတဲ့ အဆင့်တွေကို ဖော်ပြပေးပါမယ်။
 
-မြန်မာ SignWriting ကီးဘုတ်တစ်ခုကို လက်ကွက်အသစ်တခုအနေနဲ့ ကိုယ့်ရဲ့ ကွန်ပြူတာမှာထည့်ချင်တယ် ဆိုရင် အောက်ပါအစီအစဉ်အတိုင်း လုပ်ဆောင်ပါ။ GitHub ကနေ MyanmarSignWriting-Fingerspelling-Keyboards ကို download လုပ်ပြီးသားအခြေအနေနဲ့ ရှင်းပြပါမယ်။ OSရဲ့ ကီးဘုတ်နဲ့ဆိုင်တဲ့ system setting ကိုဝင်ပြင်မှာမို့ ကိုယ့်ရဲ့ user account က sudoers list ထဲမှာ ရှိရပါမယ်။
+မြန်မာ SignWriting ကီးဘုတ်တစ်ခုကို လက်ကွက်အသစ်တခုအနေနဲ့ ကိုယ့်ရဲ့ ကွန်ပြူတာမှာထည့်ချင်တယ် ဆိုရင် အောက်ပါအစီအစဉ်အတိုင်း လုပ်ဆောင်ပါ။ GitHub ကနေ MyanmarSignWriting-Fingerspelling-Keyboards repository ကို download လုပ်ပြီးသားအခြေအနေနဲ့ ရှင်းပြပါမယ်။ OSရဲ့ ကီးဘုတ်နဲ့ဆိုင်တဲ့ system setting ကိုဝင်ပြင်မှာမို့ ကိုယ့်ရဲ့ user account က sudoers list ထဲမှာ ရှိရပါမယ်။ ဥပမာအနေနဲ့ phonetic-based ကီးဘုတ်ကို installation လုပ်မယ်ဆိုရင် အောက်ပါ အဆင့်တွေအတိုင်း လုပ်ဆောင်ပါ။   
 
 ၁။ GitHub ကနေ ကိုယ်ဒေါင်းလုပ်လုပ်ထားတဲ့ path အောက်မှာရှိတဲ့ [msw-fs-phonetic](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/msw-fs-phonetic) ဖိုင်ကို /usr/share/X11/xkb/symbols/ ဖိုလ်ဒါအောက်ကို ကော်ပီကူးပါ။
 
