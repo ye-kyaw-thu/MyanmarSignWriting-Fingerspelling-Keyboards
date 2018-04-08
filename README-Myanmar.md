@@ -53,7 +53,7 @@
 </p> 
 
 ### Symbol-based ကီးဘုတ်လက်ကွက်  
-သင်္ကေတ အခြေခံကီးဘုတ်ကတော့ SignWriting သင်္ကေတစာလုံး တွေရဲ့ ပုံသဏ္ဌန်ဆင်တူမှုကို အုပ်စု  
+သင်္ကေတ အခြေခံကီးဘုတ်ကတော့ SignWriting သင်္ကေတစာလုံး တွေရဲ့ ပုံသဏ္ဌန်ဆင်တူမှုကို အခြေခံပြီး အုပ်စုဖွဲ့ကာ ကီးဘုတ်လက်ကွက်မှာ နေရာချတဲ့ concept ဖြစ်ပါတယ်။     
 
 <p align="center">
 <img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/MSW-Fingerspelling-KB-Symbol-Based.png" alt="Symbol-based-MSW-Fingerspelling-Keyboard" width="800x" height="300x" />
