@@ -72,12 +72,14 @@
 [![Typing a Myanmar poem with symbol-based Myanmar SignWriting fingerspelling keyboard](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/demo-video/images/image-typing-demo-msw-fs-sym-poem2-btn.png)](https://www.youtube.com/watch?v=ih11NG0FTm4&t=13s)  
 
 
-## Installation  
+## Installation လုပ်ပုံလုပ်နည်း  
 
-If you want to add one of the Myanmar SignWriting Fingerspelling keyboards (e.g. phonetic-based keyboard) as a new keyboard layout in your X Windows:  
-(I assume you already downloaded xkb keyboard files from this GitHub)
+ကျွန်တော်တို့ ပရိုပိုဇယ် ကီးဘုတ်လက်ကွက်နှစ်ခုက Operating system (OS) အကန့်အသတ်မရှိပေမဲ့၊ လက်ရှိမှာတော့ သုတေသန အလုပ်တွေအတွက် အဓိကအသုံးပြုကြတဲ့ OS ဖြစ်ပြီး၊ Open source လည်းဖြစ်လို့ လွတ်လွတ်လပ်လပ် ပရိုဂရမ်ဝင်ရေး၊ ဝင်ပြင်လို့ အဆင်ပြေတဲ့ Linux OS တစ်ခုပေါ်မှာ (Ubuntu OS မှာ) ဘယ်လို install လုပ်ရမလဲဆိုတဲ့ အဆင့်တွေကို ဖော်ပြပေးပါမယ်။
 
- 1. Copy downloaded [msw-fs-phonetic](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/msw-fs-phonetic) file to /usr/share/X11/xkb/symbols/ path:
+မြန်မာ SignWriting ကီးဘုတ်တစ်ခုကို လက်ကွက်အသစ်တခုအနေနဲ့ ကိုယ့်ရဲ့ ကွန်ပြူတာမှာထည့်ချင်တယ် ဆိုရင် အောက်ပါအစီအစဉ်အတိုင်း လုပ်ဆောင်ပါ။ GitHub ကနေ MyanmarSignWriting-Fingerspelling-Keyboards ကို download လုပ်ပြီးသားအခြေအနေနဲ့ ရှင်းပြပါမယ်။ OSရဲ့ ကီးဘုတ်နဲ့ဆိုင်တဲ့ system setting ကိုဝင်ပြင်မှာမို့ ကိုယ့်ရဲ့ user account က sudoers list ထဲမှာ ရှိရပါမယ်။
+
+၁။ GitHub ကနေ ကိုယ်ဒေါင်းလုပ်လုပ်ထားတဲ့ path အောက်မှာရှိတဲ့ [msw-fs-phonetic](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/msw-fs-phonetic) ဖိုင်ကို /usr/share/X11/xkb/symbols/ ဖိုလ်ဒါအောက်ကို ကော်ပီကူးပါ။
+
  ```
     sudo cp ~/your-download-path/msw-fs-phonetic /usr/share/X11/xkb/symbols/msw-fs-phonetic
  ```
