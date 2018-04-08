@@ -53,10 +53,10 @@
 </p> 
 
 ### Symbol-based ကီးဘုတ်လက်ကွက်  
-သင်္ကေတ အခြေခံကီးဘုတ်ကတော့ SignWriting သင်္ကေတစာလုံး တွေရဲ့ ပုံသဏ္ဌန်ဆင်တူမှုကို အခြေခံပြီး အုပ်စုဖွဲ့ကာ ကီးဘုတ်လက်ကွက်မှာ နေရာချတဲ့ concept ဖြစ်ပါတယ်။ ဥပမာ 
-<p> This is &#x1D80A;&#x1DA9A;&#x1DAA0;</p>
+သင်္ကေတ အခြေခံကီးဘုတ်ကတော့ SignWriting သင်္ကေတစာလုံး တွေရဲ့ ပုံသဏ္ဌန်ဆင်တူမှုကို အခြေခံပြီး အုပ်စုဖွဲ့ကာ ကီးဘုတ်လက်ကွက်မှာ နေရာချတဲ့ concept ဖြစ်ပါတယ်။ ဒီ ကီးဘုတ်ကတော့ SignWriting သင်္ကေတစာလုံးတွေ အပေါ်မှာ အခြေခံထားတာဖြစ်လို့ SignWriting သင်္ကေတစာလုံးတွေနဲ့ ရင်းနှီးမှုရှိဖို့ လိုအပ်ပါတယ်။  
 
-<p> &#xFD848&#xFD811&#xFD827</p>
+ကီးဘုတ်လက်ကွက် ပုံစံကတော့ အောက်ပါအတိုင်း ဖြစ်ပါတယ်။  
+
 <p align="center">
 <img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/MSW-Fingerspelling-KB-Symbol-Based.png" alt="Symbol-based-MSW-Fingerspelling-Keyboard" width="800x" height="300x" />
 </p> 
