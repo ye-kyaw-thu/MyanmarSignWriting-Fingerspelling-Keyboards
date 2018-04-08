@@ -115,8 +115,7 @@
  ```
   msw-fs-phonetic             MSW Fingerspelling (Phonetic)
  ```
-
-Adding above line according to the alphabetical order is better for searching (see the following figure):
+နောက်ပိုင်း ရှာဖွေတဲ့ အခါမှာ အဆင်ပြေအောင် အက္ခရာ အစီအစဉ်အတိုင်း အထက်ပါ စာကြောင်းကို ရိုက်ထည့်ပါ။ ဥပမာအနေနဲ့ အောက်ပါပုံကို မှီငြမ်းပါ။  
 
 ![adding-in-evdev.lst-file](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/adding-in-evdev.lst-file.png)
 
