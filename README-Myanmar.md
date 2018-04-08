@@ -85,15 +85,15 @@
  ```
     sudo cp ~/your-download-path/msw-fs-phonetic /usr/share/X11/xkb/symbols/msw-fs-phonetic
  ```
- 2. Change to the path /usr/share/X11/xkb/rules/:
+ ၂။ /usr/share/X11/xkb/rules/ ဖိုလ်ဒါအောက်ကို ဝင်ပါ။
  ```
  cd /usr/share/X11/xkb/rules
  ```
- 3. Open evdev.xml file with an editor such as vi, emacs and gedit:
+ ၃။ vi (သို့) emacs (သို့) gedit လို text editor တစ်ခုခုကို သုံးပြီး evdev.xml ဖိုင်ကို ဖွင့်ဖတ်ပါ။ 
  ```
  sudo gedit evdev.xml
  ```
-  put following XML content, save and quit:
+  အောက်ပါ XML content ကို အဆင်ပြတဲ့ တနေရာရာမှာ ဝင်ဖြည့်ပြီး ဖိုင်ကို save လုပ်ပြီး gedit ကနေ ထွက်ပါ။
  
  ```xml
  <layout> 
@@ -110,7 +110,7 @@
     </layout> 
  ```
  
- 4. Open evdev.lst file and add following line:
+ ၄။ /usr/share/X11/xkb/rules/ ဖိုလ်ဒါအောက်မှာပဲ ရှိတဲ့ evdev.lst ဆိုတဲ့ ဖိုင်ကို ဖွင့်ပြီး အောက်ပါလိုင်းကို ရိုက်ထည့်ပါ။
  
  ```
   msw-fs-phonetic             MSW Fingerspelling (Phonetic)
