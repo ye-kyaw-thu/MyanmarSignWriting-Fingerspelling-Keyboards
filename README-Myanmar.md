@@ -56,7 +56,7 @@
 သင်္ကေတ အခြေခံကီးဘုတ်ကတော့ SignWriting သင်္ကေတစာလုံး တွေရဲ့ ပုံသဏ္ဌန်ဆင်တူမှုကို အခြေခံပြီး အုပ်စုဖွဲ့ကာ ကီးဘုတ်လက်ကွက်မှာ နေရာချတဲ့ concept ဖြစ်ပါတယ်။ ဥပမာ 
 <p> This is &#x1D80A;&#x1DA9A;&#x1DAA0;</p>
 
-<p> &#xFD848 &#xFD811 &#FD827</p>
+<p> &#xFD848&#xFD811&#xFD827</p>
 <p align="center">
 <img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/MSW-Fingerspelling-KB-Symbol-Based.png" alt="Symbol-based-MSW-Fingerspelling-Keyboard" width="800x" height="300x" />
 </p> 
