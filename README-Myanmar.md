@@ -61,14 +61,13 @@
 
 
 ## မြန်မာကဗျာ နှစ်ပုဒ်ကို SignWriting သင်္ကေတစာလုံးတွေဖြင့် သရုပ်ပြ ရိုက်ပြခြင်း
-Typing demo videos of three Myanmar poems with both phonetic-based and symbol-based keyboards are uploaded to GitHub and Youtube.  
-After you downloaded, check the demo-video/ folder.  
+မြန်မာနိုင်ငံက နားမကြားကျောင်းတွေမှာ အသုံးပြုနေသော Fingerspelling ပါ ပါဝင်သော သူငယ်တန်းမြန်မာစာဖတ်စာအုပ်ထဲ က ကဗျာသုံးပုဒ်ကို ကီးဘုတ် နှစ်မျိုးနဲ့ တစ်ခေါက်စီ ရိုက်ထားတဲ့ ဗီဒီယို ၆ဖိုင်ကို demo-video ဖိုလ်ဒါအောက်မှာ သိမ်းပေးထားပါတယ်။ GitHub ကနေ ဒေါင်းလုဒ်လုပ်ပြီး ဗီဒီယိုဖိုင်တွေကို ဖွင့်ကြည့်နိုင်ပါတယ်။ အွန်လိုင်းကနေ ကြည့်လို့ရအောင် YouTube မှာလည်း upload လုပ်ပေးထားပါတယ်။  
 
-Typing a Myanmar poem with phonetic-based Myanmar SignWriting fingerspelling keyboard:
+### phonetic-based ကီးဘုတ်နဲ့ ရိုက်ပြထားတဲ့ ဗီဒီယို
 
 [![Typing a Myanmar poem with phonetic-based Myanmar SignWriting fingerspelling keyboard](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/demo-video/images/image-typing-demo-msw-fs-pho-kb-poem1-btn.png)](https://www.youtube.com/watch?v=NCsfay9HP5M)  
 
-Typing a Myanmar poem with symbol-based Myanmar SignWriting fingerspelling keyboard:
+### symbol-based ကီးဘုတ်နဲ့ ရိုက်ပြထားတဲ့ ဗီဒီယို
 
 [![Typing a Myanmar poem with symbol-based Myanmar SignWriting fingerspelling keyboard](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/demo-video/images/image-typing-demo-msw-fs-sym-poem2-btn.png)](https://www.youtube.com/watch?v=ih11NG0FTm4&t=13s)  
 
