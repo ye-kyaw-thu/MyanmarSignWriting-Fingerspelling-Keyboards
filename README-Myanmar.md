@@ -119,6 +119,7 @@
 
 ![adding-in-evdev.lst-file](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/adding-in-evdev.lst-file.png)
 
+၅။ 
 5. Open "Text Entry dialogue box" by clicking "US" (If your current keyboard layout is US) and selecting the "Text Entry Settings...".
 
 *Another option: You can also open "Text Entry dialogue box" by clicking the "Settings icon" in the upper-right corner of the screen, select "System Setting..." and then select "Text Entry".*
