@@ -128,7 +128,7 @@
 ၆။ အောက်ပါ ပုံစံမျိုး Text Entry Dialogue Box ကို မြင်ရပြီးဆိုရင်၊ "+", "-" လို့ပြနေတဲ့ ခလုပ်ကို "+" ဘက်အခြမ်းဘက်ကို မောက်(စ်) ပွိုင်တာကို ဂရုစိုက်ရွှေ့ပြီး နှိပ်လိုက်ပါ။ ဒီနေရာမှာ "+" က စာရိုက်နည်း အသစ်တခုကို ထည့်မယ်လို့ ဆိုလိုပြီး၊ "-" ကတော့ လက်ရှိရွေးထားတဲ့ (highlight ဖြစ်နေတဲ့) စာရိုက်နည်းကို ဖြုတ်မယ် ဆိုတဲ့အဓိပ္ပါယ်ပါ။   
 
 <p align="center">
-<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/System-Settings-Dialogue-Box.png" alt="Text-Entry-Dialogue-Box" width="600x" height="350x" />
+<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/Text%20Entry_dlBox1.png" width="600x" height="350x" />
 </p> 
 
 ![text-entry-dialogue-box]() 
