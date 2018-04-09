@@ -125,11 +125,13 @@
 <img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/System-Settings-Dialogue-Box.png" alt="System Dialogue Box" width="700x" height="520x" />
 </p> 
 
-5. Open "Text Entry dialogue box" by clicking "US" (If your current keyboard layout is US) and selecting the "Text Entry Settings...".
+၆။ အောက်ပါ ပုံစံမျိုး Text Entry Dialogue Box ကို မြင်ရပြီးဆိုရင်၊ "+", "-" လိုပြနေတဲ့ ခလုပ်ကို "+" ဘက်အခြမ်းဘက်ကို မောက်စ် ပွိုင်တာကို ဂရုစိုက်ရွှေ့ပြီး နှိပ်လိုက်ပါ။ ဒီနေရာမှာ "+" က စာရိုက်နည်း အသစ်တခုကို ထည့်မယ်လို့ ဆိုလိုပြီး၊ "-" ကတော့ လက်ရှိရွေးထားတဲ့ (highlight ဖြစ်နေတဲ့) စာရိုက်နည်းကို ဖြုတ်မယ် ဆိုတဲ့ အဓိပ္ပါယ်ပါ။   
 
-*Another option: You can also open "Text Entry dialogue box" by clicking the "Settings icon" in the upper-right corner of the screen, select "System Setting..." and then select "Text Entry".*
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/System-Settings-Dialogue-Box.png" alt="Text-Entry-Dialogue-Box" width="600x" height="350x" />
+</p> 
 
-![text-entry-dialogue-box](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/Text%20Entry_dlBox1.png) 
+![text-entry-dialogue-box]() 
 
 6. Click the "+" button under the list of installed keyboard layouts and then select "MSW Fingerspelling (Phonetic)" as shown in the following figure:
 
