@@ -136,7 +136,7 @@
 ၇။ "Choose an input source" ဆိုတဲ့ dialogue box မှာ "MSW Fingerspelling (Phonetic)" ဆိုတာကို ရွေးပြီး "Add" button ကို နှိပ်ပါ။   
 
 <p align="center">
-<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/ChooseAnInputSource-msw-fs-pho.png" alt"Choose an MSW Fingerspelling input source" width="600x" height="600x" />
+<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/ChooseAnInputSource-msw-fs-pho.png" alt"Choose an MSW Fingerspelling input source" width="4500x" height="450x" />
 </p> 
 
 ၈။ အထက်မှာ ရှင်းပြခဲ့တဲ့ အဆင့်တွေအားလုံးကို လုပ်ဆောင်ပြီးသွားရင် Myanmar Signwriting fingerspelling သင်္ကေတတွေကို ရိုက်ဖို့အတွက် အဆင်သင့် ဖြစ်နေပါပြီ။ အရင်ဆုံး ကိုယ်ရိုက်ချင်တဲ့ text editor တစ်ခုခုကို ဖွင့်ပါ။ ကျွန်တော်တို့ကတော့ LibreOffice Writer ကို အသုံးပြုပါတယ်။ LibreOffice Writer ပရိုဂရမ်က တက်လာပြီဆိုရင်၊ စာမျက်နှာ အသစ် တစ်ခုကို ဖွင့်ယူပါ။ ပြီးရင်တော့ GUI စကရင် (သို့) ကိုယ်အသုံးပြုနေတဲ့ Ubuntu Desktop ရဲ့ ညာဘက်အပေါ်မှာ ပေါ်နေတဲ့ လက်ရှိရွေးထားတဲ့ စာရိုက်နည်း (သို့) ကီးဘုတ်လက်ကွက် နာမည် (ဥပမာ အင်္ဂလိပ်စာအတွက် ဆိုရင် En) ရှိတဲ့ နေရာဆီကို မောက်(စ်) ပွိုင်တာကို ရွှေ့ပြီး ကလစ်နှိပ်လိုက်ရင် အောက်ပါပုံကဲသို့ selection menu ပေါ်လာပါလိမ့်မယ်။ အဲဒီ selection menu မှာ "MSW Fingerspelling (Phonetic)" ဆိုတာကို ရွေးပါ။   
