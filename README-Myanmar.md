@@ -148,16 +148,18 @@ Here, "Super Key" is Windows key or Command key.
 
 Note: Depends on your Ubuntu OS distributions, sometimes you also have to update base.lst, base.xml, xfree86.lst and xfree86.xml. One more information is that you might need to reboot for activating a new keyboard layout.  
 
-## Lincense
+## လိုင်စင်
 MIT License
 
-## Acknowledgement
+## ကျေးဇူးတင်မှတ်တမ်း  
 We would like to thank teachers and students from School for the Deaf, Mandalay and all participants for their kind contributions to our research and user study experiments. This research is partially supported by Ministry of Education, Department of Higher Education, Myanmar.  
 
 ## Citing  
+Myanmar SignWriting fingerspelling ကီးဘုတ်ကို အသုံးပြုတဲ့အခါ (သို့) သုတေသနအတွက် မှီငြမ်းတဲ့အခါမှာ ကျွန်တော်တို့ရဲ့ သုတေသနအလုပ်ကို အသိအမှတ်ပြုတဲ့ အနေနဲ့ အောက်ပါ ICCA2018 conference စာတမ်းကို မှီငြမ်းအဖြစ် ဖော်ပြပေးစေချင်ပါတယ်။  
+
 Hlaing Myat Nwe, Ye Kyaw Thu, Hnin Wai Wai Hlaing, Swe Zin Moe, Ni Htwe Aung , Hnin Aye Thant , Nanda Win Min, "Two Fingerspelling Keyboard Layouts for Myanmar SignWriting", In Proceedings of ICCA2018, February 22-23, 2018, Yangon, Myanmar, pp. 290-298. [Paper](https://github.com/ye-kyaw-thu/MSL4Emergency/blob/master/publications/msw-fingerspelling-keyboards-ICCA2018.pdf)  
 
-## Reference
+## မှီငြမ်း (Reference)
 Wikipedia of SignWriting: [https://en.wikipedia.org/wiki/SignWriting](https://en.wikipedia.org/wiki/SignWriting)  
 Youtube Video of "Valerie Sutton Tells Her Story ...": [https://www.youtube.com/watch?v=xzYW8_Br2MM](https://www.youtube.com/watch?v=xzYW8_Br2MM)  
 Sutton SignWriting Unicode standard (version 10.0): [https://unicode.org/charts/PDF/U1D800.pdf](https://unicode.org/charts/PDF/U1D800.pdf)  
