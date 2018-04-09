@@ -119,7 +119,7 @@
 
 ![adding-in-evdev.lst-file](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/adding-in-evdev.lst-file.png)
 
-၅။ အဆင့်နံပါတ်(၄) ကို လုပ်ဆောင်တာက အဆင်ပြေပြေနဲ့ ပြီးသွားပြီဆိုရင်၊ နောက်တစ်ဆင့်က ကိုယ်စာရိုက်ချင်တဲ့ အချိန်မှာ text input method တစ်ခုအနေနဲ့ ခေါ်ယူအသုံးပြုနိုင်ဖို့အတွက်  System က သိအောင် လုပ်ပေးဖို့ လိုအပ်ပါတယ်။ အဲဒါကိုတော့ GUI စကရင် (သို့) ကိုယ်အသုံးပြုနေတဲ့ Ubuntu Desktop ရဲ့ ညာဘက်ထောင့်ဆုံးက "စက်သွားပုံ အိုင်ကွန်း" ကို ကလစ်နှိပ်ပြီး ကျလာတဲ့ "selection menu" ကန "System Settings..." ကိုရွေးလိုက်ရင် အောက်ပါ dialogue box ကို မြင်ရပါလိမ့်မယ်။ အဲဒီ dialogue box ကို မြင်ရပြီဆိုရင် "Text Entry" ဆိုတဲ့ အိုင်ကွန်းကို နှိပ်လိုက်ပါ။  
+၅။ အဆင့်နံပါတ်(၄) ကို လုပ်ဆောင်တာက အဆင်ပြေပြေနဲ့ ပြီးသွားပြီဆိုရင်၊ နောက်တစ်ဆင့်က ကိုယ်စာရိုက်ချင်တဲ့ အချိန်မှာ text input method တစ်ခုအနေနဲ့ ခေါ်ယူအသုံးပြုနိုင်ဖို့အတွက်  System က သိအောင် လုပ်ပေးဖို့ လိုအပ်ပါတယ်။ အဲဒါကိုတော့ GUI စကရင် (သို့) ကိုယ်အသုံးပြုနေတဲ့ Ubuntu Desktop ရဲ့ ညာဘက်ထောင့်ဆုံးက "စက်သွားပုံ အိုင်ကွန်း" ကို ကလစ်နှိပ်ပြီး ကျလာတဲ့ "selection menu" ကနေ "System Settings..." ကိုရွေးလိုက်ရင် အောက်ပါ dialogue box ကို မြင်ရပါလိမ့်မယ်။ အဲဒီ dialogue box ကို မြင်ရပြီဆိုရင်၊ "Personal" ဆိုတဲ့ အုပ်စုအောက်မှာရှိတဲ့ "Text Entry" ဆိုတဲ့ အိုင်ကွန်းကို နှိပ်လိုက်ပါ။  
 
 <p align="center">
 <img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/System-Settings-Dialogue-Box.png" alt="System Dialogue Box" width="700x" height="520x" />
