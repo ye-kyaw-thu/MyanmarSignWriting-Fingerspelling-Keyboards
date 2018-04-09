@@ -56,11 +56,6 @@
 သင်္ကေတအခြေခံ ကီးဘုတ်ကတော့ SignWriting သင်္ကေတစာလုံး တွေရဲ့ ပုံသဏ္ဌန်ဆင်တူမှုကို အခြေခံပြီး အုပ်စုဖွဲ့ကာ ကီးဘုတ်လက်ကွက်မှာ နေရာချတဲ့ concept ဖြစ်ပါတယ်။ ဒီ ကီးဘုတ်ကတော့ SignWriting သင်္ကေတစာလုံးတွေ အပေါ်မှာ အခြေခံထားတာဖြစ်လို့ SignWriting သင်္ကေတစာလုံးတွေနဲ့ ရင်းနှီးမှုရှိဖို့ လိုအပ်ပါတယ်။ ကီးနေရာချပုံအသေးစိတ်ကို သက်ဆိုင်ရာ SignWriting ယူနီကုဒ် နံပါတ်တွေပါ ဖော်ပြထားတဲ့ [သင်္ကေတအခြေခံ ကီးလက်ကွက်ဇယားဖိုင်](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/symbol-based-keyboard-mapping.pdf) သို့မဟုတ် [xkb ကီးဘုတ်လက်ကွက်ဖိုင်](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/msw-fs-symbol) ကိုဖွင့်ကြည့်ပြီး လေ့လာနိုင်ပါတယ်။ ကီးဘုတ်လက်ကွက် ပုံစံကတော့ အောက်ပါအတိုင်း ဖြစ်ပါတယ်။  
 
 <p align="center">
-<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/System-Settings-Dialogue-Box.png" alt="System Dialogue Box" width="400x" height="300x" />
-</p>
-
-
-<p align="center">
 <img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/MSW-Fingerspelling-KB-Symbol-Based.png" alt="Symbol-based-MSW-Fingerspelling-Keyboard" width="800x" height="300x" />
 </p> 
 
@@ -126,7 +121,9 @@
 
 ၅။ အဆင့်နံပါတ်(၄) ကို လုပ်ဆောင်တာက အဆင်ပြေပြေနဲ့ ပြီးသွားပြီဆိုရင်၊ နောက်တစ်ဆင့်က ကိုယ်စာရိုက်ချင်တဲ့ အချိန်မှာ text input method တစ်ခုအနေနဲ့ ခေါ်ယူအသုံးပြုနိုင်ဖို့အတွက်  System က သိအောင် လုပ်ပေးဖို့ လိုအပ်ပါတယ်။ အဲဒါကိုတော့ GUI စကရင် (သို့) ကိုယ်အသုံးပြုနေတဲ့ Ubuntu Desktop ရဲ့ ညာဘက်ထောင့်ဆုံးက "စက်သွားပုံ အိုင်ကွန်း" ကို ကလစ်နှိပ်ပြီး ကျလာတဲ့ "selection menu" ကန "System Settings..." ကိုရွေးလိုက်ရင် အောက်ပါ dialogue box ကို မြင်ရပါလိမ့်မယ်။ အဲဒီ dialogue box ကို မြင်ရပြီဆိုရင် "Text Entry" ဆိုတဲ့ အိုင်ကွန်းကို နှိပ်လိုက်ပါ။  
 
-![System-Settings-Dialogue-Box](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/System-Settings-Dialogue-Box.png)  
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/System-Settings-Dialogue-Box.png" alt="System Dialogue Box" width="800x" height="600x" />
+</p> 
 
 5. Open "Text Entry dialogue box" by clicking "US" (If your current keyboard layout is US) and selecting the "Text Entry Settings...".
 
