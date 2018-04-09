@@ -118,7 +118,7 @@
 နောက်ပိုင်း ရှာဖွေတဲ့ အခါမှာ အဆင်ပြေအောင် အက္ခရာ အစီအစဉ်အတိုင်း အထက်ပါ စာကြောင်းကို ရိုက်ထည့်ပါ။ ဥပမာအနေနဲ့ အောက်ပါပုံကို မှီငြမ်းပါ။  
 
 <p align="center">
-<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/adding-in-evdev.lst-file.png" alt="Adding in evdev.lst file" width="600x" height="200x" />
+<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/adding-in-evdev.lst-file.png" alt="Adding in evdev.lst file" width="600x" height="180x" />
 </p> 
 
 ၅။ အဆင့်နံပါတ်(၄) ကို လုပ်ဆောင်တာက အဆင်ပြေပြေနဲ့ ပြီးသွားပြီဆိုရင်၊ နောက်တစ်ဆင့်က ကိုယ်စာရိုက်ချင်တဲ့ အချိန်မှာ text input method တစ်ခုအနေနဲ့ ခေါ်ယူအသုံးပြုနိုင်ဖို့အတွက်  System က သိအောင် လုပ်ပေးဖို့ လိုအပ်ပါတယ်။ အဲဒါကိုတော့ GUI စကရင် (သို့) ကိုယ်အသုံးပြုနေတဲ့ Ubuntu Desktop ရဲ့ ညာဘက်ထောင့်ဆုံးက "စက်သွားပုံ အိုင်ကွန်း" ကို ကလစ်နှိပ်ပြီး ကျလာတဲ့ "selection menu" ကနေ "System Settings..." ကိုရွေးလိုက်ရင် အောက်ပါ dialogue box ကို မြင်ရပါလိမ့်မယ်။ အဲဒီ dialogue box ကို မြင်ရပြီဆိုရင်၊ "Personal" ဆိုတဲ့ အုပ်စုအောက်မှာရှိတဲ့ "Text Entry" ဆိုတဲ့ အိုင်ကွန်းကို နှိပ်လိုက်ပါ။  
