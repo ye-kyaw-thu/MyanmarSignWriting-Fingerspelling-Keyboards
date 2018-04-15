@@ -151,7 +151,7 @@
 MIT License
 
 ## ကျေးဇူးတင်မှတ်တမ်း  
-We would like to thank teachers and students from School for the Deaf, Mandalay and all participants for their kind contributions to our research and user study experiments. This research is partially supported by Ministry of Education, Department of Higher Education, Myanmar.  
+ဤသုတေသန လုပ်ငန်းစဉ်များအတွက် ပါဝင်ကူညီဆောင်ရွက်ပေးကြသော မန္တလေး နားမကြားသောကလေးများကျောင်းမှ ကျောင်းအုပ်ဆရာမကြီး နှင့်တကွ ဆရာ၊ ဆရာမများ၊ ကျောင်းသား၊ ကျောင်းသူများ၊ အဖက်ဖက်မှ ကူညီပံ့ပိုးပေးကြသူများအားလုံးကို အထူးကျေးဇူးတင်ရှိပါသည်။ ဤသုတေသနကို လက်ရှိအတိုင်းအတာထိ အောင်မြင်စွာပြီးစီးရန်အတွက်၊ ကုန်ကျငွေ တစိတ်တပိုင်းကို ထောက်ပံ့ကြေးငွေချီးမြှင့် ပေးခဲ့သော ပညာရေးဝန်ကြီးဌာန၊ ပြည်ထောင်စု မြန်မာနိုင်ငံတော်အစိုးရ ကိုလည်း အထူးကျေးဇူးတင်ရှိပါကြောင်း မှတ်တမ်းတင် ဖော်ပြအပ်ပါသည်။     
 
 ## Citing  
 Myanmar SignWriting fingerspelling ကီးဘုတ်ကို အသုံးပြုတဲ့အခါ (သို့) သုတေသနအတွက် မှီငြမ်းတဲ့အခါမှာ ကျွန်တော်တို့ရဲ့ သုတေသနအလုပ်ကို အသိအမှတ်ပြုတဲ့ အနေနဲ့ အောက်ပါ ICCA2018 conference စာတမ်းကို မှီငြမ်းအဖြစ် ဖော်ပြပေးစေချင်ပါတယ်။  
