@@ -141,7 +141,9 @@
 
 ၈။ အထက်မှာ ရှင်းပြခဲ့တဲ့ အဆင့်တွေအားလုံးကို လုပ်ဆောင်ပြီးသွားရင် Myanmar Signwriting fingerspelling သင်္ကေတတွေကို ရိုက်ဖို့အတွက် အဆင်သင့် ဖြစ်နေပါပြီ။ အရင်ဆုံး ကိုယ်ရိုက်ချင်တဲ့ text editor တစ်ခုခုကို ဖွင့်ပါ။ ကျွန်တော်တို့ကတော့ LibreOffice Writer ကို အသုံးပြုပါတယ်။ LibreOffice Writer ပရိုဂရမ်က တက်လာပြီဆိုရင်၊ စာမျက်နှာ အသစ် တစ်ခုကို ဖွင့်ယူပါ။ ပြီးရင်တော့ GUI စကရင် (သို့) ကိုယ်အသုံးပြုနေတဲ့ Ubuntu Desktop ရဲ့ ညာဘက်အပေါ်မှာ ပေါ်နေတဲ့ လက်ရှိရွေးထားတဲ့ စာရိုက်နည်း (သို့) ကီးဘုတ်လက်ကွက် နာမည် (ဥပမာ အင်္ဂလိပ်စာအတွက် ဆိုရင် En) ရှိတဲ့ နေရာဆီကို မောက်(စ်) ပွိုင်တာကို ရွှေ့ပြီး ကလစ်နှိပ်လိုက်ရင် အောက်ပါပုံကဲသို့ selection menu ပေါ်လာပါလိမ့်မယ်။ အဲဒီ selection menu မှာ "MSW Fingerspelling (Phonetic)" ဆိုတာကို ရွေးပါ။ ရွေးပြီးရင်တော့ LibreOffice Writer မှာ SignWriting သင်္ကေတတွေကို ရိုက်လို့ ရပါပြီ။  
 
-![selecting-kkg-eg](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/select-msw-fs-pho-kb.jpeg)
+<p align="center">
+<img src="https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/image4readme/select-msw-fs-pho-kb.jpeg" alt"Selecting Myanmar SignWriting Keyboard" width="400x" height="200x" />
+</p> 
 
 အသုံးပြုချင်တဲ့ စာရိုက်နည်း (သို့) ကီးဘုတ်လက်ကွက်ကို GUI စကရင်ကနေ မဟုတ်ပဲ၊ သတ်မှတ်ထားတဲ့ shortcut key နဲ့ လည်း ရွေးချယ်နိုင်ပါတယ်။ ပုံမှန်အားဖြင့်က "Super" ကီးနဲ့ "Space Bar" ကိုတွဲနှိပ်ပြီး ပြောင်းလို့ရပါတယ်။ အဆင့် နံပါတ်(၆) မှာ ပြထားတဲ့ Dialogue Box ပုံကို မှီငြမ်းပါ။ ဒီနေရာမှာ "Super" ကီးဆိုတာက ပုံမှန် PC ကီးဘုတ်မှာဆိုရင် ဘယ်ဘက်အောက်ဆုံးမှာ ရှိတဲ့၊ <kbd> Ctrl </kbd> ကီးနဲ့ <kbd> Alt </kbd> ကီးနှစ်ခုကြားက Windows OS Logo နဲ့ ပြထားတဲ့ Windows key ကီးကို ဆိုလိုတာပါ။ Apple ကွန်ပြူတာကီးဘုတ်မှာဆိုရင်တော့ <kbd> ⌘ Command </kbd> ကီး ဖြစ်ပါတယ်။ ကိုယ်ရဲ့ ကွန်ပြူတာမှာ လက်ရှိအသုံးပြုနေသော ကီးဘုတ် အရေအတွက် ပေါ်မူတည်ပြီး၊ ကိုယ်အသုံးပြုချင်သော ကီးဘုတ်လက်ကွက်ဆီကို ရောက်ရှိရန် "Super key" + "Space bar" (သို့) " Shift key" + "Super key" + "Space bar" (လက်ရှိရောက်နေတဲ့ ကီးဘုတ်လက်ကွက်ကနေ နောက်ကို ပြန်ဆုတ်ရန်) အတွဲတွေကို တစ်ခါထက်ပိုပြီး နှိပ်ရကောင်း နှိပ်ရနိုင်ပါတယ်။  
 
