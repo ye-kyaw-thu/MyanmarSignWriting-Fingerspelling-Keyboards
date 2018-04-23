@@ -48,8 +48,7 @@ We proposed two possible keyboard mappings for typing Myanmar fingerspelling wit
 </p> 
 
 ## Demo Videos of Typing Myanmar SignWriting Fingerspelling Text
-Typing demo videos of three Myanmar poems with both phonetic-based and symbol-based keyboards are uploaded to GitHub and Youtube.  
-After you downloaded, check the demo-video/ folder.  
+Demo videos of typing three Myanmar poems with both phonetic-based and symbol-based keyboards are uploaded to GitHub and Youtube. After you downloaded the repository, check the demo-video/ folder.  
 
 Typing a Myanmar poem with phonetic-based Myanmar SignWriting fingerspelling keyboard:
 
@@ -62,7 +61,7 @@ Typing a Myanmar poem with symbol-based Myanmar SignWriting fingerspelling keybo
 
 ## Installation  
 
-If you want to add one of the Myanmar SignWriting Fingerspelling keyboards (e.g. phonetic-based keyboard) as a new keyboard layout in your X Windows:  
+If you want to add one of the Myanmar SignWriting Fingerspelling keyboards (e.g. phonetic-based keyboard) as a new keyboard layout in your X Windows, take the following steps:  
 (I assume you already downloaded xkb keyboard files from this GitHub)
 
  1. Copy downloaded [msw-fs-phonetic](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/keyboards/msw-fs-phonetic) file to /usr/share/X11/xkb/symbols/ path:
