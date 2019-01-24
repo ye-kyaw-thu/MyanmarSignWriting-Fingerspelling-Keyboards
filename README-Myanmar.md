@@ -157,6 +157,10 @@ Myanmar SignWriting fingerspelling ကီးဘုတ်ကို အသုံ�
 
 Hlaing Myat Nwe, Ye Kyaw Thu, Hnin Wai Wai Hlaing, Swe Zin Moe, Ni Htwe Aung , Hnin Aye Thant , Nanda Win Min, "Two Fingerspelling Keyboard Layouts for Myanmar SignWriting", In Proceedings of ICCA2018, February 22-23, 2018, Yangon, Myanmar, pp. 290-298. [Paper](https://github.com/ye-kyaw-thu/MSL4Emergency/blob/master/publications/msw-fingerspelling-keyboards-ICCA2018.pdf)  
 
+## SignWriting Symposium 2018 မှာ လုပ်ခဲ့တဲ့ presentation ဗီဒီယို  
+
+[Presentation video and slide of MyanmarSignWriting fingerspelling keyboards proposal](http://www.signwriting.org/symposium/presentation0072.html)  
+
 ## မှီငြမ်း (Reference)
 Wikipedia of SignWriting: [https://en.wikipedia.org/wiki/SignWriting](https://en.wikipedia.org/wiki/SignWriting)  
 Youtube Video of "Valerie Sutton Tells Her Story ...": [https://www.youtube.com/watch?v=xzYW8_Br2MM](https://www.youtube.com/watch?v=xzYW8_Br2MM)  
