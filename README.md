@@ -131,7 +131,7 @@ Hlaing Myat Nwe, Ye Kyaw Thu, Hnin Wai Wai Hlaing, Swe Zin Moe, Ni Htwe Aung , H
 
 ## Presentation at SignWriting Symposium 2018
 
-[Presentation Video and Slide of MyanmarSignWriting Fingerspelling Keyboards](http://www.signwriting.org/symposium/presentation0072.html)  
+[Presentation video and slide of MyanmarSignWriting fingerspelling keyboards proposal](http://www.signwriting.org/symposium/presentation0072.html)  
 
 ## Reference
 Wikipedia of SignWriting: [https://en.wikipedia.org/wiki/SignWriting](https://en.wikipedia.org/wiki/SignWriting)  
