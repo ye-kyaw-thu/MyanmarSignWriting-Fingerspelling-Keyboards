@@ -136,7 +136,12 @@ MIT License
 We would like to thank teachers and students from School for the Deaf, Mandalay and all participants for their kind contributions to our research and user study experiments. This research is partially supported by Ministry of Education, Department of Higher Education, Myanmar.  
 
 ## Citing  
+
+Conference Paper:  
 Hlaing Myat Nwe, Ye Kyaw Thu, Hnin Wai Wai Hlaing, Swe Zin Moe, Ni Htwe Aung , Hnin Aye Thant , Nanda Win Min, "Two Fingerspelling Keyboard Layouts for Myanmar SignWriting", In Proceedings of ICCA2018, February 22-23, 2018, Yangon, Myanmar, pp. 290-298. [Paper](https://github.com/ye-kyaw-thu/MSL4Emergency/blob/master/publications/msw-fingerspelling-keyboards-ICCA2018.pdf)  
+
+Journal Paper:  
+Hlaing Myat Nwe, Ye Kyaw Thu, Hnin Aye Thant, "Myanmar SignWriting Keyboard Mapping Layout for Fingerspelling", Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2020, pp. 45-52. (submitted December 21, 2019; accepted March 6, 2020; revised April 25, 2020; published online April 30, 2020) [Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2020/no.6.sw-keyboard-camready.pdf)  
 
 ## Presentation at SignWriting Symposium 2018
 
