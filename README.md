@@ -127,6 +127,8 @@ Check: [https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboar
 
 Typing demo video on Windows OS: [https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/tree/master/WindowsOS/demo-video](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/tree/master/WindowsOS/demo-video)  
 
+Draft guide of developing a new SignWriting keyboard layout by using KeyMan Desktop: [https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/WindowsOS/creating-keyboard-draft.pdf](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/WindowsOS/creating-keyboard-draft.pdf)  
+
 ## Lincense
 MIT License
 
