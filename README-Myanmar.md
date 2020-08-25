@@ -146,6 +146,16 @@
 
 သတိပြုရန်။ ။ ကိုယ်အသုံးပြုနေတဲ့ Linux OS distributions အပေါ်မူတည်ပြီး၊ base.lst, base.xml, xfree86.lst နဲ့ xfree86.xml ဖိုင်တွေကိုလည်း ဝင်ပြင်ဆင်ပေးဖို့ လိုအပ်တဲ့ အခါမျိုးလည်း ရှိနိုင်ပါတယ်။ နောက်တချက်က ကိုယ်အသစ်ထည့်သွင်းလိုက်တဲ့ ကီးဘုတ်လက်ကွက် ကို OS က သိဖို့အတွက် reboot လုပ်ပေးရတဲ့ အခါမျိုးလည်း ရှိပါတယ်။  
 
+## Windows OS အတွက်
+
+Windows OS မှာ အသုံးပြုလို့ ရအောင် Sutton SignWriting မြန်မာ Fingerspelling ကီးဘုတ် ဝင်းဒိုးဗားရှင်းကို ၂၅ရက် ၈လ ၂၀၂၀ မှာ release လုပ်ပေးခဲ့ပါတယ်။  
+Check: [https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/tree/master/WindowsOS](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/tree/master/WindowsOS)  
+
+Typing demo video on Windows OS: [https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/tree/master/WindowsOS/demo-video](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/tree/master/WindowsOS/demo-video)  
+
+Draft guide of developing a new SignWriting keyboard layout by using KeyMan Desktop: [https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/WindowsOS/creating-keyboard-draft.pdf](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/blob/master/WindowsOS/creating-keyboard-draft.pdf)  
+
+
 ## လိုင်စင်
 MIT License
 
