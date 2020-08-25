@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProject>
+  <Options>
+    <BuildPath>$PROJECTPATH\build</BuildPath>
+    <CompilerWarningsAsErrors>True</CompilerWarningsAsErrors>
+    <WarnDeprecatedCode>True</WarnDeprecatedCode>
+    <CheckFilenameConventions>True</CheckFilenameConventions>
+  </Options>
+  <Files>
+    <File>
+      <ID>id_b97c7cf5daac75abe8248a502eb14a72</ID>
+      <Filename>sw_myan.kmn</Filename>
+      <Filepath>source\sw_myan.kmn</Filepath>
+      <FileVersion>1.0</FileVersion>
+      <FileType>.kmn</FileType>
+      <Details>
+        <Name>Myanmar SignWriting</Name>
+        <Copyright>@2019</Copyright>
+        <Message>This is a Myanmar SignWriting language input method</Message>
+      </Details>
+    </File>
+  </Files>
+</KeymanDeveloperProject>

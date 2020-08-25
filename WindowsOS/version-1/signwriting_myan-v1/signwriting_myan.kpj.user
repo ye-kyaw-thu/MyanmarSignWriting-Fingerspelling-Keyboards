@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>1</showhelp>
+    <path>D:\signwriting_myan\signwriting_myan.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_b97c7cf5daac75abe8248a502eb14a72</ID>
+      <FullPath>D:\signwriting_myan - v1\source\sw_myan.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>MS Sans Serif|8|   |1</DebugFont>
+        <CodeFont>SignWriting 2010|9|   |0</CodeFont>
+        <CharFont>SignWriting 2010|9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>sw_myan.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>D:\signwriting_myan - v1\source\sw_myan.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>sw_myan.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>D:\signwriting_myan\source\sw_myan.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
