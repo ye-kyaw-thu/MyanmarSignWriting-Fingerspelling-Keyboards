@@ -120,6 +120,13 @@ Here, "Super Key" is Windows key or Command key.
 
 Note: Depends on your Ubuntu OS distributions, sometimes you also have to update base.lst, base.xml, xfree86.lst and xfree86.xml. One more information is that you might need to reboot for activating a new keyboard layout.  
 
+## SignWriting Keyboard for Windows OS Users
+
+We developed MSW Fingerspelling (Phonetic) keyboard layout for Windows OS users and released all KeyMan source files on August 25, 2020.  
+Check: [https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/tree/master/WindowsOS](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/tree/master/WindowsOS)  
+
+Typing demo video on Windows OS: [https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/tree/master/WindowsOS/demo-video](https://github.com/ye-kyaw-thu/MyanmarSignWriting-Fingerspelling-Keyboards/tree/master/WindowsOS/demo-video)  
+
 ## Lincense
 MIT License
 
