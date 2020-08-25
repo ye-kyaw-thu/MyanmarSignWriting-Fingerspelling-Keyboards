@@ -165,7 +165,11 @@ MIT License
 ## ဖတ်ကြားခဲ့သော သုတေသနစာတမ်း  
 Myanmar SignWriting fingerspelling ကီးဘုတ်ကို အသုံးပြုတဲ့အခါ (သို့) မြန်မာ လက်သင်္ကေတအရေးအသား (SignWriting) စာရိုက်နည်းသုတေသနအတွက် မှီငြမ်းတဲ့အခါမှာ ကျွန်တော်တို့ရဲ့ သုတေသနအလုပ်ကို အသိအမှတ်ပြုတဲ့အနေနဲ့ အောက်ပါ ICCA2018 conference စာတမ်းကို ကျောရိုးအင်အားစုအဖြစ် ဖော်ပြပေးပါ။  
 
+Conference Paper:  
 Hlaing Myat Nwe, Ye Kyaw Thu, Hnin Wai Wai Hlaing, Swe Zin Moe, Ni Htwe Aung , Hnin Aye Thant , Nanda Win Min, "Two Fingerspelling Keyboard Layouts for Myanmar SignWriting", In Proceedings of ICCA2018, February 22-23, 2018, Yangon, Myanmar, pp. 290-298. [Paper](https://github.com/ye-kyaw-thu/MSL4Emergency/blob/master/publications/msw-fingerspelling-keyboards-ICCA2018.pdf)  
+
+Journal Paper:  
+Hlaing Myat Nwe, Ye Kyaw Thu, Hnin Aye Thant, "Myanmar SignWriting Keyboard Mapping Layout for Fingerspelling", Journal of Intelligent Informatics and Smart Technology, April 1st Issue, 2020, pp. 45-52. (submitted December 21, 2019; accepted March 6, 2020; revised April 25, 2020; published online April 30, 2020) [Paper](https://github.com/ye-kyaw-thu/papers/blob/master/JIIST-April-2020/no.6.sw-keyboard-camready.pdf)  
 
 ## SignWriting Symposium 2018 မှာ လုပ်ခဲ့တဲ့ presentation ဗီဒီယို  
 
@@ -176,5 +180,7 @@ Wikipedia of SignWriting: [https://en.wikipedia.org/wiki/SignWriting](https://en
 Youtube Video of "Valerie Sutton Tells Her Story ...": [https://www.youtube.com/watch?v=xzYW8_Br2MM](https://www.youtube.com/watch?v=xzYW8_Br2MM)  
 Sutton SignWriting Unicode standard (version 10.0): [https://unicode.org/charts/PDF/U1D800.pdf](https://unicode.org/charts/PDF/U1D800.pdf)  
 kKg Myanmar Keyboard Layout: [https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard](https://github.com/ye-kyaw-thu/kKg-Myanmar-Keyboard)  
+Keyman Desktop: [https://keyman.com/desktop/](https://keyman.com/desktop/)  
+
 
 
